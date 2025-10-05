@@ -49,3 +49,6 @@ You can do this by:
 
 Here are some resources that may be helpful:
 - A classic reference on writing code: [The Art of Readable Code (Boswell and Foucher, O'Reilly, 2012)](https://mcusoft.files.wordpress.com/2015/04/the-art-of-readable-code.pdf)
+
+
+# Edit for final PR.
